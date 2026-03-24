@@ -10,6 +10,7 @@ const Category = ({ title, data }) => {
         data?.map((item, index) => {
           return (
             <Card
+               key={index}
               title={item?.title}
               description={item?.description}
               imagePath={item?.image}
