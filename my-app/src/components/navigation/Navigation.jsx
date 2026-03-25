@@ -31,7 +31,7 @@ const Navigation = () => {
             <NavLink to="/women" className={({isActive}) => isActive ? 'active-link': ''}> Women </NavLink>
           </li>
           <li>
-            <NavLink to="/kid" className={({isActive}) => isActive ? 'active-link': ''}> Kids </NavLink>
+            <NavLink to="/Kids" className={({isActive}) => isActive ? 'active-link': ''}> Kids </NavLink>
           </li>
         </ul>
       </div>
