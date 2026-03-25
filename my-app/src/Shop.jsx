@@ -1,19 +1,24 @@
 import React from 'react'
-import Navigation from './components/navigation/Navigation'
+
 import HeroSection from './components/HeroSection/HeroSection'
 import NewArrivals from './components/Sections/NewArrivals'
 import Category from './components/Sections/Categories/Category'
 import content from './data/content.json'
+import Footer from './components/Footer/Footer'
 
 const Shop = () => {
   return (
     <>
-    <Navigation/>
-    <HeroSection/>
-    <NewArrivals/>
-    <Category title={content?.categories[0]?.title} data={content?.categories[0]?.data}/>
+      <HeroSection />
+      <NewArrivals />
+
+      {content?.pages?.shop?.sections?.map((item, index) => (
+        <Category key={item?.title + index} {...item} />
+      ))}
+
+      <Footer content={content?.footer} />
     </>
-  )
-}
+  );
+};
 
 export default Shop

@@ -1,22 +1,26 @@
 import React from "react";
+import ArrowIcon from "../common/ArrowIcon";
 
-const Card = ({ imagePath, title, description,actionArrow,height,width}) => {
+const Card = ({ imagePath, title, description, actionArrow, height, width }) => {
   return (
     <div className="flex flex-col p-4">
       <img
-        className={`h-[${height? height:'240px'}] w-[200px] bg-cover bg-center
-         border rounded hover:scale-105 cursor-pointer `}
+        style={{
+          height: height || '240px',
+          width: width || '200px'
+        }}
+        className="object-cover border rounded hover:scale-105 transition-transform cursor-pointer"
         src={imagePath}
-
-        
+        alt={title}
       />
-      <div className="flex justify-between">
-        <div  className="flex flex-col ">
-      <p className="text-[16px] p-2">{title}</p>
-       {description && <p className="text-[14px]">{description}</p>}
 
-      </div>
-      {actionArrow && <div></div>}
+      <div className="flex justify-between items-center">
+        <div className="flex flex-col">
+          <p className="text-[16px] p-2">{title}</p>
+          {description && <p className="text-[12px] px-2 text-gray-600">{description}</p>}
+        </div>
+
+        {actionArrow && <span className="cursor-pointer pr-2 items-center"><ArrowIcon/></span>}
       </div>
     </div>
   );
