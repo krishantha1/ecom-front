@@ -220,7 +220,7 @@
           "id": 3,
           "name": "Kids",
           "code": "KIDS",
-          "path":"/kids",
+          "path":"/Kid",
           "description":"Kids Clothing",
           "types": [
             {
@@ -259,8 +259,8 @@
         "size": ["S", "M", "L"],
         "color": ["Black","Blue"],
         "discount": 20,
-        "thumbnail": "https://codedev.b-cdn.net/products/sweatshirt-black.jpg",
-        "images": ["https://codedev.b-cdn.net/products/sweatshirt-black.jpg", "https://codedev.b-cdn.net/products/woman-black-shirt-giving-neutral-flirtatious-poses.jpg","https://codedev.b-cdn.net/products/woman-holding-coffee-cup-smiling.jpg"],
+        "thumbnail": "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/qiy63nd5vvkxve31rpd4.jpg",
+        "images": ["lirtatious-poses.jpg","https://codedev.b-cdn.net/products/woman-holding-coffee-cup-smiling.jpg"],
         "rating": 4.5
       },
       {
@@ -275,7 +275,7 @@
         "color": ["White"],
         "discount": 15,
         "images": ["https://codedev.b-cdn.net/products/tshirt-white.jpg", "https://codedev.b-cdn.net/products/tshirt-white.jpg"],
-        "thumbnail": "https://codedev.b-cdn.net/products/tshirt-white.jpg",
+        "thumbnail": "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg",
         "rating": 4.5
       },
       {
@@ -440,7 +440,7 @@
         "color": ["Black"],
         "discount": 10,
         "images": ["black-tshirt1.jpg", "black-tshirt2.jpg"],
-        "thumbnail": "https://codedev.b-cdn.net/products/black-tshirt.jpeg",
+        "thumbnail": "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521161/nzncupl4jzou8ewpuxko.jpg",
         "rating": 4.5
       },
       {
@@ -455,7 +455,7 @@
         "color": ["White"],
         "discount": 15,
         "images": ["white-hoodie1.jpg", "white-hoodie2.jpg"],
-        "thumbnail": "https://codedev.b-cdn.net/products/white-hoodie.jpeg",
+        "thumbnail": "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521159/yrq2cmmmuq4ykahyzywv.jpg",
         "rating": 4.7
       },
       {
@@ -470,7 +470,7 @@
         "color": ["Blue"],
         "discount": 20,
         "images": ["blue-jeans1.jpg", "blue-jeans2.jpg"],
-        "thumbnail": "https://codedev.b-cdn.net/products/blue-jeans.jpg",
+        "thumbnail": "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521159/mefre2xfpu26isavni5j.jpg",
         "rating": 4.6
       },
       {
@@ -485,7 +485,7 @@
         "color": ["Gray"],
         "discount": 10,
         "images": ["gray-shorts1.jpg", "gray-shorts2.jpg"],
-        "thumbnail": "https://codedev.b-cdn.net/products/gray-shorts.jpg",
+        "thumbnail": "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521159/pg1kr5ahfjcf9uudgb2q.jpg",
         "rating": 4.4
       },
       {
@@ -500,7 +500,7 @@
         "color": ["Black"],
         "discount": 15,
         "images": ["black-hoodie1.jpg", "black-hoodie2.jpg"],
-        "thumbnail": "https://codedev.b-cdn.net/products/black-hoodie.jpeg",
+        "thumbnail": "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg",
         "rating": 4.8
       }
 
