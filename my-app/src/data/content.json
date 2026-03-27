@@ -259,8 +259,8 @@
         "size": ["S", "M", "L"],
         "color": ["Black","Blue"],
         "discount": 20,
-        "thumbnail": "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/qiy63nd5vvkxve31rpd4.jpg",
-        "images": ["lirtatious-poses.jpg","https://codedev.b-cdn.net/products/woman-holding-coffee-cup-smiling.jpg"],
+         "images": ["https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg", "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg", "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg"],
+        "thumbnail": "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg",
         "rating": 4.5
       },
       {
@@ -274,7 +274,7 @@
         "size": ["S", "M", "L"],
         "color": ["White"],
         "discount": 15,
-        "images": ["https://codedev.b-cdn.net/products/tshirt-white.jpg", "https://codedev.b-cdn.net/products/tshirt-white.jpg"],
+        "images": ["https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg", "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg", "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg"],
         "thumbnail": "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg",
         "rating": 4.5
       },
@@ -289,8 +289,8 @@
         "size": ["S", "M", "L"],
         "color": ["Purple"],
         "discount": 10,
-        "images": ["hoodie-purple1.jpg", "hoodie-purple2.jpg"],
-        "thumbnail": "https://codedev.b-cdn.net/products/hoodie-purple.jpg",
+         "images": ["https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg", "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg", "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg"],
+        "thumbnail": "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg",
         "rating": 4.6
       },
       {
@@ -304,8 +304,8 @@
         "size": ["S", "M", "L"],
         "color": ["White"],
         "discount": 5,
-        "images": ["dress-white-leaves1.jpg", "dress-white-leaves2.jpg"],
-        "thumbnail": "https://codedev.b-cdn.net/products/dress-white-leaves.jpg",
+        "images": ["https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg", "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg", "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg"],
+        "thumbnail": "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg",
         "rating": 4.7
       },
       {
@@ -319,8 +319,8 @@
         "size": ["S", "M", "L"],
         "color": ["White"],
         "discount": 10,
-        "images": ["crop-top-white1.jpg", "crop-top-white2.jpg"],
-        "thumbnail": "https://codedev.b-cdn.net/products/crop-top-white.jpeg",
+        "images": ["https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg", "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg", "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg"],
+        "thumbnail": "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg",
         "rating": 4.3
       },
       {
@@ -334,8 +334,8 @@
         "size": ["S", "M", "L"],
         "color": ["Black"],
         "discount": 15,
-        "images": ["shorts-black1.jpg", "shorts-black2.jpg"],
-        "thumbnail": "https://codedev.b-cdn.net/products/shorts-black.jpeg",
+        "images": ["https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg", "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg", "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg"],
+        "thumbnail": "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg",
         "rating": 4.5
       },
       {
@@ -349,8 +349,8 @@
         "size": ["S", "M", "L"],
         "color": ["Blue"],
         "discount": 10,
-        "images": ["jeans-blue1.jpg", "jeans-blue2.jpg"],
-        "thumbnail": "https://codedev.b-cdn.net/products/jeans-blue.jpeg",
+         "images": ["https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg", "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg", "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg"],
+        "thumbnail": "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg",
         "rating": 4.8
       },
       {
@@ -364,8 +364,8 @@
         "size": ["S", "M", "L"],
         "color": ["Gray"],
         "discount": 10,
-        "images": ["sweatshirt-gray1.jpg", "sweatshirt-gray2.jpg"],
-        "thumbnail": "https://codedev.b-cdn.net/products/sweatshirt-crewneck.jpeg",
+       "images": ["https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg", "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg", "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg"],
+        "thumbnail": "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg",
         "rating": 4.6
       },
       {
@@ -379,8 +379,8 @@
         "size": ["S", "M", "L"],
         "color": ["Blue"],
         "discount": 15,
-        "images": ["shorts-denim1.jpg", "shorts-denim2.jpg"],
-        "thumbnail": "https://codedev.b-cdn.net/products/shorts-denim.jpeg",
+         "images": ["https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg", "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg", "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg"],
+        "thumbnail": "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg",
         "rating": 4.7
       },
       {
@@ -394,8 +394,8 @@
         "size": ["S", "M", "L"],
         "color": ["Black"],
         "discount": 10,
-        "images": ["tshirt-black1.jpg", "tshirt-black2.jpg"],
-        "thumbnail": "https://codedev.b-cdn.net/products/tshirt-black.jpg",
+         "images": ["https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg", "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg", "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg"],
+        "thumbnail": "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg",
         "rating": 4.5
       },
       {
@@ -409,8 +409,8 @@
         "size": ["S", "M", "L"],
         "color": ["Blue"],
         "discount": 15,
-        "images": ["crop-top-blue-flower1.jpg", "crop-top-blue-flower2.jpg"],
-        "thumbnail": "https://codedev.b-cdn.net/products/crop-top-blue-flower.jpeg",
+        "images": ["https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg", "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg", "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg"],
+        "thumbnail": "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg",
         "rating": 4.3
       },
       {
@@ -424,9 +424,9 @@
         "size": ["S", "M", "L"],
         "color": ["Black"],
         "discount": 10,
-        "images": ["crop-top-black1.jpg", "crop-top-black2.jpg"],
-        "thumbnail": "https://codedev.b-cdn.net/products/crop-top-black.jpeg",
-        "rating": 4.2
+         "images": ["https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg", "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg", "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg"],
+        "thumbnail": "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg",
+        "rating": 2.2
       },
       {
         "id": 13,
@@ -439,8 +439,8 @@
         "size": ["M", "L", "XL"],
         "color": ["Black"],
         "discount": 10,
-        "images": ["black-tshirt1.jpg", "black-tshirt2.jpg"],
-        "thumbnail": "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521161/nzncupl4jzou8ewpuxko.jpg",
+        "images": ["https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg", "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg", "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg"],
+        "thumbnail": "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg",
         "rating": 4.5
       },
       {
@@ -454,9 +454,9 @@
         "size": ["M", "L", "XL"],
         "color": ["White"],
         "discount": 15,
-        "images": ["white-hoodie1.jpg", "white-hoodie2.jpg"],
-        "thumbnail": "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521159/yrq2cmmmuq4ykahyzywv.jpg",
-        "rating": 4.7
+        "images": ["https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg", "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg", "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg"],
+        "thumbnail": "https://res.cloudinary.com/dtecdjocy/image/upload/v1774521162/civqemjnoa5g2usxnbd0.jpg",
+        "rating": 1.7
       },
       {
         "id": 15,
